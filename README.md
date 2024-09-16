@@ -1,6 +1,6 @@
 # Jotter - To Do App
 
-A task management app to list your to-do's.
+A task management app to list your to-do's. Integrated with a RAG chatbot [Klose](https://github.com/subtrex/klose-rag-chatbot) working on Mistral-7B LLM to answer questions on task and time management.
 
 ## Tech
 
